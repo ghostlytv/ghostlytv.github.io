@@ -39,7 +39,7 @@
     "versionPublish": "4.7.8",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/tms-logo-symbol-128x80.png",
-    "noImageResize": "",
+    "noImageResize": "true",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
     "siteUrl": "",
